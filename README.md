@@ -33,6 +33,10 @@ The objective of this project is to monitor and evaluate business performance ac
 ✔ Revenue by Payment Method  
 ✔ Interactive Filters  
 
+## Challenges & Learning
+While building this dashboard, I faced several challenges and identified areas for improvement. My laptop froze during the final stage, so I couldn't polish every detail, but I completed the project and learned a lot through the process.
+
+
 # Key Insights
 
 ### 1. Revenue is concentrated in a few product categories
